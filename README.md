@@ -10,4 +10,3 @@ Features
 - View your daily calorie intake for this week
 - View your daily calorie intake for previous week
 - Enter the calories you took
-
